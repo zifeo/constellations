@@ -5,7 +5,7 @@
 #include "MathUtils.h"
 #include <functional>
 #include <map>
-
+#include <string>
 
 /**
  * @brief procedural skin animation using lambda function to animate sprites

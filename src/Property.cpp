@@ -1,6 +1,8 @@
 #include "Property.h"
 #include <regex>
 #include <new>
+#include <stdlib.h>
+#include <sstream>
 
 using namespace std;
 
